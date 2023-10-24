@@ -117,3 +117,10 @@
     max-width: 1170px;
   }
 }
+
+@media (max-width: 992px) {
+  .rating label{
+    width: 30px !important;
+
+  }
+}
