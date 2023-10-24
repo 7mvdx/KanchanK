@@ -797,7 +797,7 @@ a:focus {
           align-items: flex-end;
 }
 
-.info_section .info_form form input {
+.info_section .info_form form a {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
